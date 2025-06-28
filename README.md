@@ -18,7 +18,7 @@ The goal is to create a fast, responsive app that works across **Windows**, **Li
 
 - **Python 3**
 - **Kivy 2.3.1**
-- **KivyMD 1.2.0**
+- **KivyMD 1.1.1**
 
 ---
 
